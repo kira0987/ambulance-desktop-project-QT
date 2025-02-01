@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Star-Wars-2-1280x640.jpg</file>
+        <file>rapidrescue-logos.jpeg</file>
+        <file>hospital(1).png</file>
+        <file>ambulance.png</file>
+        <file>doctor.png</file>
+        <file>alarm.png</file>
+        <file>first-aid-kit.png</file>
+        <file>place.png</file>
+    </qresource>
+</RCC>

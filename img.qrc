@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>add-database.png</file>
+        <file>alarm.png</file>
+        <file>ambulance.png</file>
+        <file>analytics.png</file>
+        <file>barre-de-recherche.png</file>
+        <file>bin.png</file>
+        <file>calendar.png</file>
+        <file>check-out.png</file>
+        <file>excel.png</file>
+        <file>eye.png</file>
+        <file>first-aid-box.png</file>
+        <file>Gravira.png</file>
+        <file>hospital.png</file>
+        <file>houssam.jpg</file>
+        <file>icon_ambulance.png</file>
+        <file>log-in.png</file>
+        <file>modify.png</file>
+        <file>pdf.png</file>
+        <file>rapidrescue-logos.jpeg</file>
+        <file>reset.png</file>
+        <file>seo.png</file>
+        <file>table.png</file>
+        <file>power.png</file>
+        <file>power-on.png</file>
+    </qresource>
+</RCC>
