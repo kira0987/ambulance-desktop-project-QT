@@ -51,4 +51,4 @@ This project was initiated **2 years ago** as a response to the growing issue of
 If you're interested in collaborating or learning more about this project, feel free to connect!
 
 📩 Email: houssameddine.benkheder@esprit.tn 
-🌍 LinkedIn: [Houssam Eddine Ben Kheder](#)  
+🌍 LinkedIn: [Houssam Eddine Ben Kheder]([#](https://www.linkedin.com/in/houssam-eddine-ben-kheder-101230220/))  
